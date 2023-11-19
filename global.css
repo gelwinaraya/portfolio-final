@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-ds-digital: DS-Digital;
+  --font-inter: Inter;
+  --font-poppins: Poppins;
+  --font-inherit: inherit;
+  --font-doppio-one: "Doppio One";
+  --font-infinite-realities: "Infinite Realities";
+
+  /* font sizes */
+  --font-size-45xl: 64px;
+  --font-size-7xl: 26px;
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0);
+  --color-white: #fff;
+  --color-lavenderblush: #fff5fc;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-lgi: 19px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+}
